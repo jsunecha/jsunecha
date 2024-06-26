@@ -9,7 +9,7 @@ I'm passionate about learning new skills and technologies, and I'm always eager 
 
 👨‍💻 Check out my portfolio: [jatinunecha.github.io](https://jatinunecha.github.io)
 
-💬 Ask me about Java, Python, Golang, React.js, Docker, Kubernetes, SQL
+💬 Ask me about **Java, Python, Golang, React.js, Docker, Kubernetes, SQL**
 
 📫 Reach me at jatinunecha@gmail.com
 
