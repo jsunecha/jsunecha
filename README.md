@@ -1,6 +1,5 @@
-## Hi there 👋, I'm Jatin Unecha
-
-Software Engineer with 2 years of experience developing microservices and RESTful web services.
+<h1 align="center">Hi there 👋, I'm Jatin Unecha</h1>
+<h2 align="center">Software Engineer with 2 years of experience developing microservices and RESTful web services.</h2>
 
 I have hands-on experience working with a variety of programming languages including Java, Python, Golang, and C++. My skill set extends to databases such as Cassandra, MySQL, Oracle, Microsoft SQL Server, MongoDB, Postgres, Aerospike, and BigQuery. Additionally, I am proficient in web technologies like JavaScript, Web Services (REST), React.js, Vue.js, PHP, Angular, HTML, and CSS. I also have experience with tools and platforms like Linux, Apache Spark, Hadoop, SparkSQL, Kafka, Docker, Kubernetes, AWS, Azure, GCP, Git, Airflow, ActiveMQ, and Maven.
 
