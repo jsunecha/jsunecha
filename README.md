@@ -7,7 +7,7 @@ I hold an M.S. in Computer Science from San Jose State University and a B.S. in 
 
 I'm passionate about learning new skills and technologies, and I'm always eager to take on new challenges to grow as a developer.
 
-👨‍💻 Check out my portfolio: [jatinunecha.github.io](https://jatinunecha.github.io)
+<!-- 👨‍💻 Check out my portfolio: [jatinunecha.github.io](https://jatinunecha.github.io) -->
 
 💬 Ask me about **Java, Python, Golang, React.js, Docker, Kubernetes, SQL**
 
