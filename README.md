@@ -3,13 +3,13 @@
 
 I am a Full Stack Software Engineer with a strong focus on backend development. My expertise lies in creating robust and scalable microservices and RESTful APIs. Although my primary strength is backend development, I have also worked extensively as a Full Stack Developer, gaining experience in a wide range of technologies. 
 
-I hold an M.S. in Computer Science from San Jose State University and a B.S. in Computer Science from Pune Institute of Computer Technology. My professional journey includes roles at Rakuten Advertising, Zinnia, and BMC Software, where I have developed RESTful web services, led cross-functional teams, and created microservices and REST APIs.
+I hold an M.S. in Computer Science from San Jose State University and a B.S. in Computer Science from Pune Institute of Computer Technology. My professional journey includes roles at Tesla, Rakuten Advertising, Zinnia, and BMC Software, where I have developed RESTful web services, led cross-functional teams, and created microservices and REST APIs.
 
 I'm passionate about learning new skills and technologies, and I'm always eager to take on new challenges to grow as a developer.
 
 <!-- 👨‍💻 Check out my portfolio: [jatinunecha.github.io](https://jatinunecha.github.io) -->
 
-💬 Ask me about **Java, Python, Golang, React.js, Docker, Kubernetes, SQL**
+💬 Ask me about **LLMs, Java, Python, Golang, React.js, Docker, Kubernetes, SQL**
 
 📫 Reach me at jatinunecha@gmail.com
 
